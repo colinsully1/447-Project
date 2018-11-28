@@ -1,0 +1,18 @@
+Type of connection,ISP,Median Down. Speed(Mpbs),Max Advertised speed(Mpbs)
+DSL,AT&T - DSL,3.81,185
+DSL,AT&T - IPBB,15.38,468
+DSL,CenturyLink,10.07,349
+DSL,Frontier DSL,3.54,116
+DSL,Verizon DSL,2.48,59
+DSL,Windstream,5.29,177
+Cable,Optimum,44.84,277
+Cable,Charter,69.24,431
+Cable,Comcast,60.73,685
+Cable,Cox,46.13,289
+Cable,Mediacom,35.36,213
+Cable,TWC,38.63,553
+Fiber,Frontier Fiber,21.95,83
+Fiber,Verizon Fiber,54.47,362
+Satellite,Hughes,12.19,97
+Satellite,Viasat/Exede,8.56,52
+Overall,Avg. all ISPs,41.2303,
